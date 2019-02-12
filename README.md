@@ -2,6 +2,8 @@
 Java based classic arcade style 2D single player shooting game, developed with reference to an enemy invasion.
 Players Username, Password and their Highscore data are hosted using machine's localhost MYSQL Database.
 
+## Game Visuals
+
 Developed by ALPHA Team;
 * Ranmal Dewage
 * Tenusha Guruge
