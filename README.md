@@ -4,6 +4,8 @@ Players Username, Password and their Highscore data are hosted using machine's l
 
 ## Game Visuals
 
+<img src="https://i.ibb.co/qm9B0CP/GamePlay.jpg" alt="GamePlay" border="0">
+
 Developed by ALPHA Team;
 * Ranmal Dewage
 * Tenusha Guruge
