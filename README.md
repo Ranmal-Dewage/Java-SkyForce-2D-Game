@@ -12,4 +12,9 @@ Developed by ALPHA Team;
 * Vimukthi Rajapaksha
 * Aravinda Kulasooriya
 
-Author:-Ranmal Dewage(ranmal.b.dewage@gmail.com)
+
+## Copyright
+
+(C) 2018 Ranmal Dewage (ranmal.b.dewage@gmail.com)
+<br>
+[ranmaldewage.wordpress.com](https://ranmaldewage.wordpress.com)
