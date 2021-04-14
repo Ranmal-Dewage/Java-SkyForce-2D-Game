@@ -15,6 +15,6 @@ Developed by ALPHA Team;
 
 ## Copyright
 
-(C) 2018 Ranmal Dewage (ranmal.b.dewage@gmail.com)
+(C) 2017 Ranmal Dewage (ranmal.b.dewage@gmail.com)
 <br>
 [ranmaldewage.wordpress.com](https://ranmaldewage.wordpress.com)
